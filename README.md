@@ -42,7 +42,12 @@ The applications of Natural Language Processing are as follows:
 3. Information extraction like-Search engines like DuckDuckGo, Google
 4. Chatbot and Question Answering like:- website bots
 5. Language Translation like:- Google Translate
-6. Text summarization 
+6. Text summarization
+
+# NLP Tutorial 6 Output
+
+![image](https://github.com/user-attachments/assets/4b2327b5-16e6-488b-aa55-5803b78ee5b8)
+
 
 
 
